@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="stored_product">Products in store</string>
+    <string name="delete_all_products">Delete all products</string>
+    <string name="items_in_cart">Items in the cart</string>
+
+    <string name="save">A new product added to cart</string>
+    <string name="error">Error saving the data</string>
+    <string name="errorupdate">Error updating the data</string>
+    <string name="savedupdate">Product has been updated</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <string name="Error_deleting">Product not deleted.</string>
+    <string name="Deleted">Product Deleted.</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_dialog_msg">Delete this product?</string>
+    <string name="delete">Delete</string>
+<string name="cancel">Cancel</string>
+</resources>
