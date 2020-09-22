@@ -1,0 +1,1 @@
+# Created the design and structure of an Inventory Application that would allow a store to track its inventory of products. The application will need to store information about price, available quantity, vendor, and a product photo by tracking sales and shipments and making it easier for the user to request more from the listed supplier.
